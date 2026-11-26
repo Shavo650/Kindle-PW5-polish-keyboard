@@ -1,0 +1,21 @@
+{
+  "manifest_version": 1,
+  "id": "polish-keyboard",
+  "name": "Polish Keyboard Repository",
+  "description": "Polish keyboard for Kindle PW5",
+  "packages": {
+    "polish-keyboard": {
+      "name": "Kindle PW5 polish keyboard",
+      "author": "Shavo650",
+      "description": "Polski układ klawiatury dla Kindle",
+      "artifacts": [
+        {
+          "url": "packages/polish-keyboard/artifacts/polish-keyboard_1.0.0_kindlehf.kpkg",
+          "version": [1, 0, 0],
+          "dependencies": [],
+          "supported_platforms": ["kindlehf"]
+        }
+      ]
+    }
+  }
+}
