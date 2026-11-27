@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "id": "polish-keyboard",
+  "name": "Kindle PW5 polish keyboard",
+  "author": "Shavo650",
+  "description": "Polski układ klawiatury dla Kindle",
+  "version": [1, 0, 0],
+  "dependencies": [],
+  "supported_platforms": ["kindlehf"]
+}
