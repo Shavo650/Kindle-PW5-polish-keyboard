@@ -32,7 +32,7 @@ Oryginalne pliki pozostają nienaruszone. Modyfikacja jest tymczasowa i łatwa d
 2. Podłącz czytnik do komputera za pomocą kabla USB.
 3. Skopiuj plik do katalogu `documents` w pamięci Kindle.
 4. Upewnij się, że czytnik ma dostęp do Internetu.
-5. Bezpiecznie odłącz Kindle od komputera.
+5. Odłącz Kindle od komputera.
 6. W bibliotece czytnika powinien pojawić się plik instalatora. Uruchom go tak samo jak zwykłą książkę.
 
 Instalator automatycznie wykona następujące czynności:
